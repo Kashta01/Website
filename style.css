@@ -450,6 +450,14 @@ span {
 }
 
 @media (max-width:991px) {
+
+       .portfolio-info h4 {
+        font-size: 1.5rem;
+    }
+
+    .portfolio-info p {
+        font-size: 1rem;
+    }
     header {
         padding: 2rem 3%;
     }
@@ -522,6 +530,15 @@ span {
 
     .services h2 {
         margin-bottom: 3rem;
+    }
+
+    
+    .portfolio-info h4 {
+        font-size: 1.5rem;
+    }
+
+    .portfolio-info p {
+        font-size: 1rem;
     }
 
     .portfolio h2 {
